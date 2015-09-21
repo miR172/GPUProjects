@@ -1,0 +1,17 @@
+start scan...
+finish scan!
+
+pannel_position(mapping)chromosome_index--constant
+present bits by column & row--constant
+
+allocated population 128*59*1 = 8061552 pool--global
+allocated final char area--global
+
+initialized--curand
+solving....
+43158923761496128475234176469782985214335612974249835119578
+
+solved--GPU
+
+start print...
+finish export!
